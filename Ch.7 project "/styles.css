@@ -1,0 +1,65 @@
+.div1 {
+ Margin:0
+ padding:0
+}
+
+p Arial{
+ Background:yellow
+ Align Text:center
+}
+ 
+ #wrapper{
+   Maximum width:800px
+   Top Margin:Auto
+   Bottom Margin:Auto
+   Left Margin:20px
+   Right Margin:20px
+    Background:red
+	padding:20px
+	Border Radius:8px
+div {
+	Box Shadow: 6px 10px rgba black
+}
+
+ul {
+list type: none;
+padding:0
+background-color:#333
+Display: inline
+Top Margin:0
+Bottom Margin:0
+Right:15px
+Left:15px
+} 
+
+Nav a{
+	Text color: white
+	Decoration: none
+	Font: 18px
+	Letter spacing: 3px
+}
+
+Nav a: hover{ Text Decoration: Underline }
+ 
+nav a:visited{ Text Color: purple }
+.content img{
+	Width:100px
+	Height:100px
+	Float: Left
+	Right Margin:20px
+	Border Radius:8px
+}
+
+.content p{ Text:Center }
+
+.footer{
+	Top Margin:20px
+	padding:10px
+	Background Color:333
+	Text Color:white
+	Border Radius:8px 
+ 
+
+
+		
+  
