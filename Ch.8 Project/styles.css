@@ -1,0 +1,114 @@
+.div1 {
+ Margin:0
+ padding:0
+}
+
+P Arial{
+Background:#f4f4f4
+Align text:center
+}
+
+#wrapper{
+ Maximum width: 70
+Margin: auto
+Padding 20px
+}
+
+Nav ul{
+list style:none 
+padding: 10px
+Background: #333
+}
+ Nav ul li{
+Display: inline.
+Top Margin:0
+Bottom Margin:0
+Left Margin:15px
+Right Margin:15px
+ }
+ 
+ Nav a{
+  Text color: white
+  Text decoration:none
+  Font:18px
+  Letter spacing:1px
+ }
+ 
+ Nav a:hover{Text decoration:Underline}
+ 
+ Nav a:visited{Text Color: lightgray}
+ 
+ .hero{
+   Display:flex
+   Align Items: center
+   Justify content:center
+   padding: 40px
+   Background :#e3e3e3
+ }
+ 
+ .hero img{
+   Width:30
+   Margin:20px
+   Border Radius:10px
+ }
+ 
+ .hero-text{
+   Width:70
+   Align text:Left
+ }
+ 
+ .features{
+   Display: grid
+   grid template column: repeat,auto-fit.
+   Minmax: minumum width 250px: Max width:1 fr
+   Gap:20px
+   Padding 20px
+ }
+ 
+ .feature{
+    background: white
+	Padding:15pdx
+	Border Radius:10px
+ }
+ 
+ .feature img{
+	 Width:40
+ }
+ 
+ .footer{
+	 Top Margin:20px
+	 Padding: 10px
+	 background:white #333
+ }
+ 
+ @media only screen and(max-width:768px{
+	 .item1{flex-direction:column, alignment:center}
+.hero img.item2{width: 250px,Margin:15px}
+.hero-text .item3{max width: 100, Text alignment: center}
+nav ul .item4{Padding:10px,Text alignment:center}
+nav ul li .item5{ Display: block,top-bottom margins:10px,Left-right margin:0}
+ }
+ 
+ @media only screen and(max-width:480{
+	 item1{Padding:10px}
+	 item2{width:200px}
+	 item3{grid-template-columns:1fr;}
+	 item4{padding:5px}
+	 item5{top-bottom margin:5px,left-right margin:0}
+	 item6{font:16px}
+	 
+	 
+	 
+	 
+	 
+	 
+	
+   
+   
+	 
+	 
+	
+
+
+		
+  
