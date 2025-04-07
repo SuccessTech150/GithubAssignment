@@ -1,0 +1,25 @@
+table{ 
+Border:2px
+Color:#222
+Margin:auto
+width:80%
+}
+
+th,td{
+Border:2px
+Color:#222
+Padding:0.5em
+Text:center
+}
+
+movie-title{
+Text: left
+}
+
+Tr:nth-child(odd){
+	Background:#f4e1d2
+}
+
+Tr:nth-child(even){
+	Background:#c5dff8
+}
