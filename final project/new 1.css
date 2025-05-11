@@ -1,0 +1,40 @@
+H3,p{
+Center text
+}
+
+form{
+Display: flex
+Direction: column
+wrap: non wrap
+top margin:0
+bottom margin:0
+left margin:auto
+right margin:auto
+padding:1em
+}
+
+input,select,textarea{
+Bottom margin: 0.5em.
+}
+
+form{
+Display: grid
+Width: 70%
+Max Width: 30em
+gap: 1em
+Grid template:6em 1fr
+top margin:1
+bottom margin:0
+left margin:auto
+right margin:auto
+}
+
+form> input{
+Grid column:2
+Width: 10em
+}
+
+p Arial{
+ Background:white
+ Align Text:center
+}
